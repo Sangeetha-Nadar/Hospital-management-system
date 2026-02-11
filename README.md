@@ -28,6 +28,9 @@ View admin notices
 Add and manage hospital staff (Doctors, Nurses, Receptionists)
 Send internal notices to staff
 Manage overall system operations
+admin:
+name: sangeetha
+password: sangeetha123
 
 
  **Billing & Payment System**
